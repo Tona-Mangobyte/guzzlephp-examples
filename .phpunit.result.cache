@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"Tests\\Unit\\SimpleTest::testOneTest":0.003,"Tests\\Unit\\ExampleTest::testOne":0.005}}
+{"version":1,"defects":{"Tests\\Unit\\SimpleTest::testOneTodoRequest":4,"Tests\\Unit\\SimpleTest::testRequestWithHandlerStack":4},"times":{"Tests\\Unit\\SimpleTest::testOneTest":0.003,"Tests\\Unit\\ExampleTest::testOne":0.005,"Tests\\Unit\\SimpleTest::testOneTodoRequest":0.042,"Tests\\Unit\\SimpleTest::testOneTodoRequestWithMiddleware":0.045,"Tests\\Unit\\SimpleTest::testOneTodoRequest2":0,"Tests\\Unit\\SimpleTest::testRequestWithHandlerStack":0.067}}
